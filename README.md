@@ -1,5 +1,11 @@
 DASM
 ====
+
+This is a fork from https://github.com/ddm4756/DASM
+
+The original DASM coding style was optimized for windows. This version´s intention is to build also on linux systems. 
+
+
 Dynamic Active Shape Models
 
 Summary:
